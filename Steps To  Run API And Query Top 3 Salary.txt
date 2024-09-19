@@ -1,0 +1,10 @@
+Frist :-
+ 1-Create Database In Postgresql With Name EmployeesDb.
+ 2-Create Table Using Query Script Create_Table_Employee.sql in Postgresql
+
+ Run API:
+     1-Ensure Creating Database And Table Employee
+     2-Change Connection String In appsettings.json To Your Postgresql
+
+ Run Query Top 3 Highest Salary:
+     1-Ensure Creating Database And Table Employee
