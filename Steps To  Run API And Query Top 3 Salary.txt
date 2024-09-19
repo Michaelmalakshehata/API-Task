@@ -4,7 +4,9 @@ Frist :-
 
  Run API:
      1-Ensure Creating Database And Table Employee
-     2-Change Connection String In appsettings.json To Your Postgresql
+     2-Extract API Src Files Of Api And Open
+     3-Change Connection String In appsettings.json To Your Postgresql
+     4-Run API
 
  Run Query Top 3 Highest Salary:
      1-Ensure Creating Database And Table Employee
